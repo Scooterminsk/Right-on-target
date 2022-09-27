@@ -196,7 +196,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" tag="4" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="icc-3v-KJR">
-                                <rect key="frame" x="608" y="193" width="100" height="28.5"/>
+                                <rect key="frame" x="571" y="193" width="100" height="28.5"/>
                                 <constraints>
                                     <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="100" id="4il-SY-BXk"/>
                                 </constraints>
@@ -220,10 +220,10 @@
                             <constraint firstAttribute="trailing" secondItem="MMI-9D-5Ne" secondAttribute="trailing" constant="333" id="7NT-0a-hg9"/>
                             <constraint firstItem="cDF-05-AwU" firstAttribute="leading" secondItem="Yp6-Lm-0xY" secondAttribute="leading" constant="319" id="Bw4-RG-CwV"/>
                             <constraint firstItem="MMI-9D-5Ne" firstAttribute="baseline" secondItem="LZ7-wj-z8E" secondAttribute="baseline" id="ImC-FC-y9d"/>
+                            <constraint firstItem="Yp6-Lm-0xY" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="icc-3v-KJR" secondAttribute="trailing" symbolic="YES" id="QqZ-Hr-Fy5"/>
                             <constraint firstItem="A22-DE-8JC" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="Yp6-Lm-0xY" secondAttribute="leading" symbolic="YES" id="TcA-jq-CGA"/>
                             <constraint firstItem="Yp6-Lm-0xY" firstAttribute="trailing" secondItem="cDF-05-AwU" secondAttribute="trailing" constant="319" id="XAQ-7k-gdr"/>
-                            <constraint firstItem="icc-3v-KJR" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="MMI-9D-5Ne" secondAttribute="trailing" constant="8" symbolic="YES" id="cHp-tv-iym"/>
-                            <constraint firstItem="Yp6-Lm-0xY" firstAttribute="trailing" secondItem="icc-3v-KJR" secondAttribute="trailing" constant="188" id="eH5-Wb-lxn"/>
+                            <constraint firstItem="icc-3v-KJR" firstAttribute="leading" secondItem="MMI-9D-5Ne" secondAttribute="trailing" constant="8" symbolic="YES" id="cHp-tv-iym"/>
                             <constraint firstItem="MMI-9D-5Ne" firstAttribute="baseline" secondItem="A22-DE-8JC" secondAttribute="baseline" id="eQE-f7-CJE"/>
                             <constraint firstItem="Fhu-dB-5hT" firstAttribute="leading" secondItem="XHG-tc-qwG" secondAttribute="leadingMargin" constant="30" id="fjc-og-CBB"/>
                             <constraint firstItem="MMI-9D-5Ne" firstAttribute="top" secondItem="cDF-05-AwU" secondAttribute="bottom" constant="98.5" id="hNO-4y-JOn"/>
